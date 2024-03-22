@@ -1,5 +1,3 @@
 # VocalMate
 
-### Prerequisites
-
 노래의 특정 구간을 반복 연습할 수 있도록 다양한 기능을 제공하는 어플입니다
